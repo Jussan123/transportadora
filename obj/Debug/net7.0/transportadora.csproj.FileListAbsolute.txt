@@ -1,0 +1,5 @@
+C:\Users\jussan.silva\OneDrive - SENAC-SC\3º Semestre\ProgramacaoDesktop\TerceiroSemestreJackson\transportadora\obj\Debug\net7.0\transportadora.csproj.AssemblyReference.cache
+C:\Users\jussan.silva\OneDrive - SENAC-SC\3º Semestre\ProgramacaoDesktop\TerceiroSemestreJackson\transportadora\obj\Debug\net7.0\transportadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jussan.silva\OneDrive - SENAC-SC\3º Semestre\ProgramacaoDesktop\TerceiroSemestreJackson\transportadora\obj\Debug\net7.0\transportadora.AssemblyInfoInputs.cache
+C:\Users\jussan.silva\OneDrive - SENAC-SC\3º Semestre\ProgramacaoDesktop\TerceiroSemestreJackson\transportadora\obj\Debug\net7.0\transportadora.AssemblyInfo.cs
+C:\Users\jussan.silva\OneDrive - SENAC-SC\3º Semestre\ProgramacaoDesktop\TerceiroSemestreJackson\transportadora\obj\Debug\net7.0\transportadora.csproj.CoreCompileInputs.cache
